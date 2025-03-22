@@ -27,7 +27,7 @@ class Program
 {
     static void Main()
     {        
-        string folder = "..\\..\\..\\..\\..\\Registros\\";
+        string folder = "..\\..\\..\\..\\Registros\\";
         string folder0 = folder + "registros_prueba\\";
         string folder1 = folder + "registros_ayacucho\\";
         string folder2 = folder + "registros_laplata_av60\\";
@@ -74,7 +74,7 @@ class Program
         // IMPRIMIR TOTAL DE VEHICULOS
         //----------------------------------------------------------------------------------------------------------------------------------
         //est0.ImprimirTotalVehiculos(est0.ListaDeEquipos[0]);
-        //est1.ImprimirTotalVehiculos(est1.ListaDeEquipos[0]);
+        est1.ImprimirTotalVehiculos(est1.ListaDeEquipos[0]);
         //est2.ImprimirTotalVehiculos(est2.ListaDeEquipos[0]);
         //est3.ImprimirTotalVehiculos(est3.ListaDeEquipos[0]);
         //est4.ImprimirTotalVehiculos(est4.ListaDeEquipos[0]);
